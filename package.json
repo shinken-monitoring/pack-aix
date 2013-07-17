@@ -18,6 +18,11 @@
 	"repository": "https://github.com/shinken-monitoring/pack-aix",
 	"keywords": [
 	  "pack",
+	  "aix",
+	  "ibm",
+	  "system",
+	  "server",
+	  "os"
 	  
 	],
 	"dependencies": {
