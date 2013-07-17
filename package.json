@@ -1,0 +1,27 @@
+{
+	"name": "aix",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/shinken-monitoring/pack-aix",
+	"author": "Jean Gabes",
+	"description": "Standard AIX checks, like CPU, RAM and disk space. Checks are done by SNMP.",
+	"contributors": [
+	  {
+		"name": "Jean Gabes",
+		"email": "naparuba@gmail.com"
+	  },
+	  {
+		"name": "Imrane Dessai",
+		"email": "dessai.imrane@gmail.com"
+	  } 
+	],
+	"repository": "https://github.com/shinken-monitoring/pack-aix",
+	"keywords": [
+	  "pack",
+	  
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}
