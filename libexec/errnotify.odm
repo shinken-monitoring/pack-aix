@@ -1,0 +1,4 @@
+errnotify:
+  en_name = "Admys2"
+  en_persistenceflg = 1
+  en_method = "logger -plocal5.crit Msg from Error Log: $9 occured. Please connect to the system to get more details"
